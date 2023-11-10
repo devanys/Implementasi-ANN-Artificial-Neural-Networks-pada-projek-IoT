@@ -55,7 +55,6 @@ Proyek ini dibuat sebagai persyaratan kelulusan mata kuliah dan dapat mengandung
 
 Terima kasih telah mengunjungi proyek kami! 
 
-[Contoh Gambaran Proyek]([link-to-project-image])
 
 [![WhatsApp Image 2023-11-08 at 00 37 25_0c9b745a](https://github.com/devanys/Implementasi-ANN-Artificial-Neural-Networks-pada-projek-IoT/assets/145944367/66b204d3-4fd1-431d-8209-86ceed155420)
 ]: (URL-gambar-proyek)
