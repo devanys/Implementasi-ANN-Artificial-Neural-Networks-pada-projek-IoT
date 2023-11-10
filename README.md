@@ -5,7 +5,7 @@ Proyek ini adalah contoh implementasi jaringan saraf buatan (ANN) pada perangkat
 ## Komponen Utama
 
 - Arduino (atau papan mikrokontroler yang kompatibel)
-- Esp8266 model 01 (sebagai perantara dengan REST API)
+- Esp8266 (sebagai perantara dengan REST API)
 - Sensor Inframerah Proximity (4 sensor)
 - LED (4 LED merah dan 4 LED hijau)
 - PlatformIO sebagai lingkungan pengembangan
