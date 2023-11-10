@@ -1,4 +1,4 @@
-# Proyek Parkir Otomatis Berbasis IoT dengan Jaringan Saraf Buatan
+# Proyek Parkir Otomatis Berbasis IoT dengan metode ANN (artificial neural networks)
 
 Proyek ini adalah contoh implementasi jaringan saraf buatan (ANN) pada perangkat Arduino menggunakan PlatformIO. Jaringan saraf buatan digunakan untuk mengambil data dari sensor inframerah dan memberikan kontrol kepada lampu LED berdasarkan hasil inferensi. Proyek ini memberikan gambaran tentang bagaimana Anda dapat menggabungkan jaringan saraf buatan ke dalam perangkat Arduino untuk aplikasi berbasis sensor.
 
