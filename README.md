@@ -44,12 +44,6 @@ Proyek ini adalah contoh implementasi jaringan saraf buatan (ANN) pada perangkat
 3. Jaringan saraf buatan menjalankan inferensi.
 4. Hasil inferensi digunakan untuk mengontrol LED merah dan hijau. Jika hasil inferensi lebih besar dari 0.5, LED merah menyala; jika tidak, LED hijau menyala.
 
-## Lisensi
-
-Proyek ini dilisensikan di bawah [Lisensi pribadi]
-
----
-
 **Catatan:**
 Proyek ini dibuat sebagai persyaratan kelulusan mata kuliah dan dapat mengandung kesalahan atau kekurangan. Setiap perdebatan atau perbaikan dapat diajukan kepada dosen mata kuliah kami.
 
